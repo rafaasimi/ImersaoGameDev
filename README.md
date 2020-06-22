@@ -22,7 +22,7 @@ index.html
 
 
 ## 🖼 Layout
-![Layout Witch Game](/imagens/personagem/layout.gif)
+![Layout Witch Game](/imagens/personagem/layout.PNG)
 
 ## 📝 Licença
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
