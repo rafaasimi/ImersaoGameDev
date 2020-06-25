@@ -61,7 +61,7 @@ function preload(){
   imagemPersonagem = loadImage('imagens/personagem/correndo.png');
   imagemInimigo = loadImage('imagens/inimigos/gotinha.png');
   somDoJogo = loadSound('sons/trilha_jogo.mp3');
-  somDoPulo = loadSound('sons/somDoPulo.mp3');
+  somDoPulo = loadSound('sons/somPulo.mp3');
 }
 
 function setup() {

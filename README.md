@@ -21,6 +21,10 @@ $ git clone https://github.com/rafaasimi/ImersaoGameDev.git
 
 # Abra o arquivo
 index.html
+
+# Comandos
+Seta Cima (↑) - Pulo simples
+2x Seta Cima (↑↑) - Pulo duplo
 ```
 
 
