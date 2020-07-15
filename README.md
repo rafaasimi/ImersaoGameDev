@@ -30,11 +30,11 @@ Seta Cima (↑) - Pulo simples
 ## ⚙️ Opcionais
 Abra o arquivo [/fita/fita.json](/fita/fita.json) para configurar:
 
-* vidaInicial: X (Padrão:3)
-* vidaMaxima: X (Padrão 3)
-* Gotinha (ID: 0) | Velocidade: 10
-* Troll (ID: 1) | Velocidade: 30
-* Gotinha Voadora (ID: 2) | Velocidade: 40
+* vidaInicial: X (Padrão: 3)
+* vidaMaxima: X (Padrão: 3)
+* Gotinha (ID: 0) | Velocidade: X (Padrão: 10)
+* Troll (ID: 1) | Velocidade: X (Padrão: 30)
+* Gotinha Voadora (ID: 2) | Velocidade: X (Padrão: 40)
 
 ## 🖼 Layout
 ![Layout Witch Game](/imagens/personagem/layout.PNG)
